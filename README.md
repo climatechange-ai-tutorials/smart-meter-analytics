@@ -30,7 +30,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Brudermueller, T., & Kreft, M. (2023). Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector [Tutorial]. In International Conference on Learning Representations. Climate Change AI. https://doi.org/10.5281/zenodo.11622537
+Brudermueller, T., & Kreft, M. (2023). Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector [Tutorial]. In International Conference on Learning Representations. Climate Change AI. https://doi.org/10.5281/zenodo.11623001
 
 ### BibTeX
 
@@ -41,7 +41,7 @@ Brudermueller, T., & Kreft, M. (2023). Smart Meter Data Analytics: Practical Use
   year={2023},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11622537},
+  doi={https://doi.org/10.5281/zenodo.11623001},
   booktitle={International Conference on Learning Representations},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/smart-meter-analytics}}
 }
